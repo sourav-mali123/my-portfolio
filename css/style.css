@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lobster&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ======== */
+.custom-navbar {
+  background: #727D73;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffff;
+  text-decoration: none;
+  cursor: default;
+}
+
+.navbar-brand:hover {
+  color: #ffff;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link[aria-current="page"] {
+  color: #ffcc00 !important;
+  /* Yellow color */
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  color: #ffff;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: capitalize;
+  transition: 0.5s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffcc00;
+  transform: translate(4px, 0);
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Toggle button ka white border */
+.navbar-toggler {
+  color: white;
+
+}
+
+/* hero section start */
+.hero-section {
+  padding: 60px 0;
+  background: linear-gradient(to right, #000080, #F4F4F4);
+  position: relative;
+}
+
+.particles-js {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.hero-section .hero-content {
+  padding: 250px 0;
+  z-index: 1;
+
+}
+
+.hero-section h1 {
+  font-size: 70px;
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.hero-section .text-typing {
+  color: #ffffff;
+}
+
+.hero-section p {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.hero-section .my-btn {
+  font-size: 20px;
+  background: red;
+  color: white;
+  text-transform: capitalize;
+  transition: 0.5s;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.hero-section .my-btn:hover {
+  background: #ffcc00;
+  color: #000000;
+  transform: scale(1.1);
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* hero section end */
+/* about me start */
+.about-me {
+  background: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+  ;
+  padding: 60px 0;
+  position: relative;
+}
+
+.about-me::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 50%;
+  width: 30%;
+  background: url(../images/dot.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  color: #000080;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.about-me .about-me-content p {
+  color: #727D73;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.about-me img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.about-me-content .my-btn {
+  font-size: 18px;
+  background: linear-gradient(45deg, #0d6efd, #6610f2);
+  color: white;
+  text-transform: capitalize;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: none;
+}
+
+.about-me-content .my-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
+
+/* about me end */
+/* my project start */
+.project {
+  padding: 60px 0;
+  background: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+  ;
+}
+
+.project h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #000080;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  padding: 60px 0 10px 0;
+}
+
+.project .project-img {
+  margin: 60px 10px;
+  max-width: 800px;
+  background: #FBEDE9;
+  border: 3px solid pink;
+  padding: 30px;
+  transition: all 0.5s ease-in;
+  border-radius: 30px 12px;
+}
+
+.project .project-img:hover {
+  transform: translate(20px, -10px);
+}
+
+.project p {
+  color: #000000;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.project .project-img img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.project .project-img h4 {
+  font-size: 24px;
+  padding: 10px 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.project .project-img p {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* my project end */
+/* footer start */
+footer {
+  background: #0d1b2a;
+  padding: 60px 0;
+}
+
+footer .footer-content {
+  color: #ffffff;
+}
+
+footer .footer-content h5 {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+
+}
+footer .footer-content p{
+  color:#f8f9fa;
+   font-family: "Montserrat", sans-serif;
+   font-size: 18px;
+}
+footer .footer-contact{
+  color: #ffffff;
+}
+footer .footer-contact .footer-links{
+  color: #ffffff;
+  text-decoration: none;
+}
+footer .footer-contact .footer-links i{
+  color: 	#cccccc;
+}
+footer  .quick-links h5{
+  color: #ffffff;
+}
+footer  .quick-links ul{
+  list-style: none;
+}
+footer  .quick-links ul li{
+  padding: 2px 0;
+}
+footer  .quick-links ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  transition: all 0.5s ease-in;
+  
+}
+footer  .quick-links ul li a:hover{
+  color:#727D73;
+}
+.text-center{
+  color: #ffffff;
+}
+/* footer end */

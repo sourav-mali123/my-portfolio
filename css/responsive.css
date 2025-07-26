@@ -1,0 +1,819 @@
+@media screen and (max-width:320px){
+  .navbar-brand {
+  font-size: 30px;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 16px; 
+}
+.hero-section h1 {
+  font-size: 26px;
+  text-align: center;
+  
+}
+.hero-section p {
+  font-size: 16px;
+  text-align: center;
+  
+}
+.hero-section .my-btn {
+  font-size: 14px;
+  margin:0 28%; 
+}
+.about-me .about-me-content h2 {
+  
+  font-size: 22px;
+  text-align: center;
+}
+.about-me .about-me-content p {
+  
+  font-size: 14px;
+  text-align: center;
+  padding: 6px;
+  
+}
+.about-me img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+   margin:0 25%; 
+}
+.project h2 {
+  font-size: 22px;
+  
+  text-align: center;
+}
+.project p {
+ 
+  font-size: 14px;
+  text-align: center;
+  
+}
+.project .project-img h4 {
+  font-size: 16px;
+}
+.project .project-img {
+ 
+  margin-right: 50px;
+}
+.project .project-img p {
+  font-size: 12px;
+ 
+}
+
+footer .footer-content h5 {
+  font-size: 18px;
+  text-align: center;  
+}
+footer .footer-content p{
+ font-size: 12px;
+ text-align: center;
+}
+footer .footer-contact h5{
+    font-size: 18px;
+    text-align: center;
+}
+footer .footer-contact .footer-links{
+    font-size: 16px;
+}
+footer  .quick-links h5{
+    font-size: 20px;
+    text-align: center;
+}
+footer  .quick-links ul li a{
+    padding: 0 36%;
+}
+}
+@media screen and (max-width:375px){
+     .navbar-brand {
+  font-size: 30px;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 16px; 
+}
+.hero-section h1 {
+  font-size: 28px;
+  text-align: center;
+  
+}
+.hero-section p {
+  font-size: 16px;
+  text-align: center;
+  
+}
+.hero-section .my-btn {
+  font-size: 14px;
+  margin:0 28%; 
+}
+.about-me .about-me-content h2 {
+  
+  font-size: 22px;
+  text-align: center;
+}
+.about-me .about-me-content p {
+  
+  font-size: 14px;
+  text-align: center;
+  padding: 6px;
+  
+}
+.about-me img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+   margin:0 25%; 
+}
+.project h2 {
+  font-size: 22px;
+  
+  text-align: center;
+}
+.project p {
+ 
+  font-size: 14px;
+  text-align: center;
+  
+}
+.project .project-img h4 {
+  font-size: 16px;
+}
+.project .project-img {
+ 
+  margin-right: 50px;
+}
+.project .project-img p {
+  font-size: 12px;
+ 
+}
+
+footer .footer-content h5 {
+  font-size: 18px;
+  text-align: center;  
+}
+footer .footer-content p{
+ font-size: 12px;
+ text-align: center;
+}
+footer .footer-contact h5{
+    font-size: 18px;
+    text-align: center;
+}
+footer .footer-contact .footer-links{
+    font-size: 16px;
+    padding: 0 29%;
+}
+footer  .quick-links h5{
+    font-size: 20px;
+    text-align: center;
+}
+footer  .quick-links ul li a{
+    padding: 0 36%;
+}
+}
+@media screen and (max-width:479px){
+     .navbar-brand {
+  font-size: 34px;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 16px; 
+}
+.hero-section h1 {
+  font-size: 30px;
+  text-align: center;
+  
+}
+.hero-section p {
+  font-size: 18px;
+  text-align: center;
+  padding: 0 8px;
+  
+}
+.hero-section .my-btn {
+  font-size: 14px;
+  margin:0 38%; 
+}
+.about-me .about-me-content h2 {
+  
+  font-size: 26px;
+  text-align: center;
+}
+.about-me .about-me-content p {
+  
+  font-size: 16px;
+  text-align: center;
+  padding: 6px;
+  
+}
+.about-me img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+   margin:0 32%; 
+}
+.project h2 {
+  font-size: 26px;
+  
+  text-align: center;
+}
+.project p {
+ 
+  font-size: 16px;
+  text-align: center;
+  
+}
+.project .project-img h4 {
+  font-size: 18px;
+}
+.project .project-img {
+ 
+  margin-right: 50px;
+}
+.project .project-img p {
+  font-size: 13px;
+ 
+}
+
+footer .footer-content h5 {
+  font-size: 22px;
+  text-align: center;  
+}
+footer .footer-content p{
+ font-size: 14px;
+ text-align: center;
+}
+footer .footer-contact h5{
+    font-size: 22px;
+    text-align: center;
+}
+footer .footer-contact .footer-links{
+    font-size: 16px;
+    padding: 0 32%;
+}
+footer  .quick-links h5{
+    font-size: 22px;
+    text-align: center;
+}
+footer  .quick-links ul li a{
+    padding: 0 38%;
+}
+}
+@media screen and (max-width:575px){
+       .navbar-brand {
+  font-size: 38px;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 18px; 
+}
+.hero-section h1 {
+  font-size: 32px;
+  text-align: center;
+  
+}
+.hero-section p {
+  font-size: 18px;
+  text-align: center;
+  padding: 0 8px;
+  
+}
+.hero-section .my-btn {
+  font-size: 16px;
+  margin:0 38%; 
+}
+.about-me .about-me-content h2 {
+  
+  font-size: 26px;
+  text-align: center;
+}
+.about-me .about-me-content p {
+  
+  font-size: 16px;
+  text-align: center;
+  padding: 6px;
+  
+}
+.about-me img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+.about-me-content .my-btn {
+  font-size: 16px;
+   margin:0 32%; 
+}
+.project h2 {
+  font-size: 26px;
+  
+  text-align: center;
+}
+.project p {
+ 
+  font-size: 16px;
+  text-align: center;
+  
+}
+.project .project-img h4 {
+  font-size: 24px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+  text-align: left;
+ 
+}
+
+footer .footer-content h5 {
+  font-size: 24px;
+  text-align: center;  
+}
+footer .footer-content p{
+ font-size: 16px;
+ text-align: center;
+ padding: 0 10px;
+}
+footer .footer-contact h5{
+    font-size: 24px;
+    text-align: center;
+}
+footer .footer-contact .footer-links{
+    font-size: 16px;
+    padding: 0 36%;
+}
+footer  .quick-links h5{
+    font-size: 24px;
+    text-align: center;
+}
+footer  .quick-links ul li a{
+    padding: 0 40%;
+} 
+}
+@media screen and (max-width:767px){
+          .navbar-brand {
+  font-size: 40px;
+  
+}
+.navbar-nav .nav-link {
+  font-size: 18px; 
+}
+.hero-section h1 {
+  font-size: 34px;
+  text-align: center;
+  
+}
+.hero-section p {
+  font-size: 18px;
+  text-align: center;
+  padding: 0 8px;
+  
+}
+.hero-section .my-btn {
+  font-size: 16px;
+  margin:0 38%; 
+}
+.about-me .about-me-content h2 {
+  
+  font-size: 28px;
+  text-align: center;
+}
+.about-me .about-me-content p {
+  
+  font-size: 16px;
+  text-align: center;
+  padding: 6px;
+  
+}
+.about-me img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+.about-me-content .my-btn {
+  font-size: 16px;
+   margin:0 32%; 
+}
+.project h2 {
+  font-size: 28px;
+  
+  text-align: center;
+}
+.project p {
+ 
+  font-size: 16px;
+  text-align: center;
+  
+}
+.project .project-img h4 {
+  font-size: 24px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+  text-align: left;
+ 
+}
+
+footer .footer-content h5 {
+  font-size: 24px;
+  text-align: center;  
+}
+footer .footer-content p{
+ font-size: 16px;
+ text-align: center;
+ padding: 0 10px;
+}
+footer .footer-contact h5{
+    font-size: 24px;
+    text-align: center;
+}
+footer .footer-contact .footer-links{
+    font-size: 16px;
+    padding: 0 34%;
+}
+footer  .quick-links h5{
+    font-size: 24px;
+    text-align: center;
+}
+footer  .quick-links ul li a{
+    padding: 0 40%;
+} 
+}
+@media screen and (max-width:991px){
+    
+
+.navbar-brand {
+  font-size: 50px;
+}
+/* hero section start */
+
+
+.hero-section h1 {
+  font-size: 40px;
+}
+
+
+.hero-section p {
+  font-size: 18px;
+}
+
+.hero-section .my-btn {
+  font-size: 18px;
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  padding-top: 50%;
+}
+
+/* hero section end */
+/* about me start */
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  font-size: 30px;
+}
+
+.about-me .about-me-content p {
+  font-size: 16px;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+}
+
+/* about me end */
+/* my project start */
+
+.project h2 {
+  font-size: 30px;
+}
+
+
+.project p {
+  font-size: 18px; 
+}
+.project .project-img h4 {
+  font-size: 14px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+}
+
+/* my project end */
+/* footer start */
+
+footer .footer-content h5 {
+  font-size: 18px; 
+}
+footer .footer-content p{
+   font-size: 18px;
+}
+
+}
+@media screen and (max-width:1024px){
+    .navbar-brand {
+  font-size: 40px;
+}
+/* hero section start */
+
+
+.hero-section h1 {
+  font-size: 40px;
+}
+
+
+.hero-section p {
+  font-size: 18px;
+}
+
+.hero-section .my-btn {
+  font-size: 18px;
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  padding-top: 38%;
+}
+
+/* hero section end */
+/* about me start */
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  font-size: 30px;
+}
+
+.about-me .about-me-content p {
+  font-size: 16px;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+}
+
+/* about me end */
+/* my project start */
+
+.project h2 {
+  font-size: 30px;
+}
+
+
+.project p {
+  font-size: 18px; 
+}
+.project .project-img h4 {
+  font-size: 14px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+}
+
+/* my project end */
+/* footer start */
+
+footer .footer-content h5 {
+  font-size: 18px; 
+}
+footer .footer-content p{
+   font-size: 18px;
+}
+}
+@media screen and (max-width:1199px){
+    .navbar-brand {
+  font-size: 40px;
+}
+/* hero section start */
+
+
+.hero-section h1 {
+  font-size: 40px;
+}
+
+
+.hero-section p {
+  font-size: 18px;
+}
+
+.hero-section .my-btn {
+  font-size: 18px;
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  padding-top: 50%;
+}
+
+/* hero section end */
+/* about me start */
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  font-size: 30px;
+}
+
+.about-me .about-me-content p {
+  font-size: 16px;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+}
+
+/* about me end */
+/* my project start */
+
+.project h2 {
+  font-size: 30px;
+}
+
+
+.project p {
+  font-size: 18px; 
+}
+.project .project-img h4 {
+  font-size: 14px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+}
+
+/* my project end */
+/* footer start */
+
+footer .footer-content h5 {
+  font-size: 18px; 
+}
+footer .footer-content p{
+   font-size: 18px;
+}
+
+}
+@media screen and (max-width:1024px){
+    .navbar-brand {
+  font-size: 40px;
+}
+/* hero section start */
+
+
+.hero-section h1 {
+  font-size: 40px;
+}
+
+
+.hero-section p {
+  font-size: 18px;
+}
+
+.hero-section .my-btn {
+  font-size: 18px;
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  padding-top: 38%;
+}
+
+/* hero section end */
+/* about me start */
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  font-size: 30px;
+}
+
+.about-me .about-me-content p {
+  font-size: 16px;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+}
+
+/* about me end */
+/* my project start */
+
+.project h2 {
+  font-size: 30px;
+}
+
+
+.project p {
+  font-size: 18px; 
+}
+.project .project-img h4 {
+  font-size: 14px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+}
+
+/* my project end */
+/* footer start */
+
+footer .footer-content h5 {
+  font-size: 18px; 
+}
+footer .footer-content p{
+   font-size: 18px;
+}
+}
+@media screen and (max-width:1199px){
+    .navbar-brand {
+  font-size: 50px;
+}
+/* hero section start */
+
+
+.hero-section h1 {
+  font-size: 50px;
+}
+
+
+.hero-section p {
+  font-size: 18px;
+}
+
+.hero-section .my-btn {
+  font-size: 18px;
+}
+
+.hero-section img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  padding-top: 36%;
+}
+
+/* hero section end */
+/* about me start */
+.about-me .about-me-content {
+  padding: 100px 0;
+}
+
+.about-me .about-me-content h2 {
+  font-size: 30px;
+}
+
+.about-me .about-me-content p {
+  font-size: 16px;
+}
+.about-me-content .my-btn {
+  font-size: 14px;
+}
+
+/* about me end */
+/* my project start */
+
+.project h2 {
+  font-size: 30px;
+}
+
+
+.project p {
+  font-size: 18px; 
+}
+.project .project-img h4 {
+  font-size: 14px;
+}
+
+.project .project-img p {
+  font-size: 14px;
+}
+
+/* my project end */
+/* footer start */
+
+footer .footer-content h5 {
+  font-size: 18px; 
+}
+footer .footer-content p{
+   font-size: 18px;
+}
+}
